@@ -9,7 +9,7 @@ http://open.sanjiaoshou.net/chapter3/
 选择一张图片->拇指长按->点击分词按钮->跳转分词界面
 
 
-![image](https://github.com/MissMidou/AIScreen/blob/master/image/13.png) ![image](https://github.com/MissMidou/AIScreen/blob/master/image/12.png) ![image](https://github.com/MissMidou/AIScreen/blob/master/image/13.png)
+![image](https://github.com/MissMidou/AIScreen/blob/master/image/13.png)  ![image](https://github.com/MissMidou/AIScreen/blob/master/image/12.png)  ![image](https://github.com/MissMidou/AIScreen/blob/master/image/13.png)
 
 ## 联系我
 邮箱lzh_dlut@163.com
